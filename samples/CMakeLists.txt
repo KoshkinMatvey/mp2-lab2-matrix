@@ -1,4 +1,3 @@
-# Get all cpp-files in the current directory
 file(GLOB samples_list RELATIVE ${CMAKE_CURRENT_SOURCE_DIR} *.cpp)
 
 
